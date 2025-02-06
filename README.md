@@ -34,4 +34,7 @@ The system follows **four key steps**:
 ---
 
 ### **Conclusion**
-This paper presents an AI-driven solution to improve fashion e-commerce recommendations. By using **computer vision and deep learning**, ShopLook allows users to buy an entire outfit, making online shopping more engaging and profitable.
+This project presents an AI-driven solution to improve fashion e-commerce recommendations. By using **computer vision and deep learning**, ShopLook allows users to buy an entire outfit, making online shopping more engaging and profitable.
+
+Reference:
+https://arxiv.org/pdf/2008.11638
