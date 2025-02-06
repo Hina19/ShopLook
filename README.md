@@ -1,6 +1,7 @@
 # ShopLook
 **ShopLook**, a computer vision-based system that helps online shoppers find fashion items similar to those worn by models in e-commerce product images. Instead of just recommending alternatives for a single item (e.g., a T-shirt), it suggests **the entire outfit**, including shoes, shorts, or jackets.
 
+
 ### **Why is This Important?**
 - Many people see a model wearing an outfit online and want to buy everything in that look.
 - Current recommendation systems usually suggest similar products only for the main item, not the full outfit.
